@@ -1,6 +1,8 @@
 # xBalance_r
 Standardized Differences for Stratified Comparisons Use xBalance (RItools) With (In) R Software
 
+https://www.youtube.com/watch?v=RluGv9soM8E
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
